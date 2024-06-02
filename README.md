@@ -20,7 +20,7 @@ To get started with this project, you need to have Python installed on your mach
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flask_project.git
+    git clone https://github.com/karansinghthkur/flask_project.git
     cd flask_project
     ```
 
